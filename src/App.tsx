@@ -7,7 +7,6 @@ function App() {
     //   <Pokemon key={i} name={poke} />
     // ))}
     // </div>
-
     <div></div>
   );
 }
