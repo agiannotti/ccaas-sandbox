@@ -1,5 +1,5 @@
 import { configureStore, ThunkAction, Action } from '@reduxjs/toolkit';
-import { pokemonApi } from '../services/pokemon'
+import { pokemonApi } from './services/pokemon'
 import { setupListeners } from '@reduxjs/toolkit/query'
 
 export const store = configureStore({
